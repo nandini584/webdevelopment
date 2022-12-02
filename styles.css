@@ -1,0 +1,109 @@
+body{
+  font-family: "Montserrat";
+}
+.bord{
+  border: solid 2px;
+}
+.bold{
+  font-weight: bolder;}
+.color{
+  background-color: #466D1D;
+  color: white;
+  padding:6px 0;
+  text-align: center;
+}
+.title{
+  text-align:center;
+  font-size: 100px;
+}
+.desc{
+  padding: 20px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.theme{
+  background-color: #466D1D;
+  color:white;
+}
+.btnstyle{
+  background-color: white;
+  color: #466D1D;
+  font-weight: bold;
+}
+.font{
+  font-family: "Montserrat";
+}
+.imgsize{
+  height: 15rem;
+}
+.head{
+  padding-bottom: 3rem;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.carousel-item{
+  font-size: 2rem;
+
+}
+.carimg{
+  height: 400px;
+  margin-bottom: 2rem;
+}
+.sale{
+  font-size: 1.5rem;
+  font-weight: lighter;
+  text-decoration: line-through;
+}
+.ourstory{
+  text-align: center;
+  padding: 7%;
+}
+.story{
+  padding-bottom: 5%;
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.storyimg{
+  margin: 7%;
+  height: 400px;
+}
+.button{
+  display:flex;
+  align-items: center;
+  margin: auto;
+}
+.logo{
+text-align: center;
+border-style: solid;
+display:inline;
+}
+.img_size{
+  height: 450px;
+
+}
+.main_text{
+  position: relative;
+  left: 5rem;
+}
+.title1{
+  font-weight: bolder;
+}
+.title2{
+  text-align: center;
+  margin-bottom: 5%;
+  font-size: 4rem;
+}
+.Alison{
+   background-color: #b1d192;
+}
+.margin_aboutme{
+
+
+
+  align-items: center;
+
+}
+.about{
+  padding: 3%;
+}
